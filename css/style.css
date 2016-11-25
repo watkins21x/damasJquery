@@ -1,0 +1,45 @@
+    .fichaR{
+    position: absolute;
+    margin: 10px 10px 10px 10px;
+    width: 70px;
+    height: 70px;
+    background: #FF69B4;
+    color: #fff;
+    border-radius: 100px;
+    }
+
+    .fichaA{
+    position: absolute;
+    margin: 10px 10px 10px 10px;
+    width: 70px;
+    height: 70px;
+    background: #0000FF;
+    color: #fff;
+    border-radius: 100px;
+    }
+
+    .blanco{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: #FFFFFF;
+    }
+
+
+    .negro {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: #000000;
+    }
+
+
+    #tablero {
+        background: #FFFFFF;
+        position: absolute;
+        width: 3000px;
+        height: 3000px;
+        left: 100px;
+        top: 50px;
+    }
+    
